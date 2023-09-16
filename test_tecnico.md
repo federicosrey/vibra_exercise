@@ -22,7 +22,7 @@ Como primer paso y teniendo en cuenta que la carga de trabajo fue multiplicada p
 
 A fines de clarificar un poco el texto escrito se añade un flujo de desicion basico de como se podria proceder ante una situacion similar
 
-![image](https://github.com/federicosrey/vibra_exercise/assets/63884877/7abce7ed-95fb-4147-986d-6524a36c9d0d)
+![image](https://github.com/federicosrey/vibra_exercise/assets/63884877/fa4d756c-93d2-4a0b-b899-4f6a913837ef)
 
 
 ### Base de datos
